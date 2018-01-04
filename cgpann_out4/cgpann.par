@@ -1,0 +1,16 @@
+5         population_size
+10.0       per_cent_mutate
+10000      num_generations
+1        num_runs_total
+1         num_rows
+100        num_cols
+100       levels_back
+1	    progress_report
+100      report_interval
+173156789 global_seed
+1         save_best_chrom
+0         run_from_chrom
+0         shrink_phenotype
+1      sigmoid-0
+1      tanh-1
+
